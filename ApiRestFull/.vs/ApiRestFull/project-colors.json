@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f7203e7e-f7f6-4bfe-8af6-2f0a7dce2988": {
+      "ProjectGuid": "f7203e7e-f7f6-4bfe-8af6-2f0a7dce2988",
+      "DisplayName": "ARF.API",
+      "ColorIndex": 0
+    },
+    "52a2de10-06fc-4167-af92-475b208f9a8f": {
+      "ProjectGuid": "52a2de10-06fc-4167-af92-475b208f9a8f",
+      "DisplayName": "ARF.Domain",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
